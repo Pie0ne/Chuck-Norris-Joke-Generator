@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+	background-color: #2ecc71;
+	font-family: 'Risque', cursive;
+}
+
+button {
+	margin-top: 100px;
+	background-color: #3290BE;
+	border: 1px solid #3290BE;
+	color: #fff;
+	padding: 15px;
+	border-radius: 50px;
+	cursor: pointer;
+	font-size: 20px;
+	font-family: 'Risque', cursive;
+}
+
+p {
+	font-size: 23px;
+	padding-top: 30px;
+}
